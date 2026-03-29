@@ -871,6 +871,16 @@ static const FFlogo B[] = {
         .colorKeys = FF_COLOR_FG_RGB "198;151;66",
         .colorTitle = FF_COLOR_FG_RGB "198;151;66",
     },
+    // Beryllium OS
+    {
+        .names = {"Beryllium OS"},
+        .lines = FASTFETCH_DATATEXT_LOGO_BERYLLIUM,
+        .colors = {
+            FF_COLOR_FG_RGB "123;143;183",
+        },
+        .colorKeys = FF_COLOR_FG_RGB "123;143;183",
+        .colorTitle = FF_COLOR_FG_RGB "123;143;183",
+    },
     // BSD
     {
         .names = {"BSD"},
